@@ -1,0 +1,2 @@
+# theano-study
+Deep Learning
